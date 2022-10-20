@@ -1,0 +1,14 @@
+.head {
+
+}
+img {
+	height: 300px;
+	width: 300px;
+	border-radius: 10px;
+}
+h1{
+	color: brown;
+}
+html{
+font-family: 'Montserrat', sans-serif;
+}
